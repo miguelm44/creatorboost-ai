@@ -1,3 +1,35 @@
+# CreatorBoost AI
+
+## ⚠️ Observação
+
+Caso o link do deploy não funcione ao clicar diretamente ou apresente algum problema de redirecionamento, copie e cole a URL abaixo no navegador:
+
+**Deploy da aplicação:**  
+[CreatorBoost AI](https://creatorboost-ai-drab.vercel.app)
+
+## Sobre o Projeto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
